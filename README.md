@@ -41,7 +41,7 @@ Finally, we calculate the net salary by subtracting the total deductions (payee 
 Clone the project
 
 ```bash
-  git clone git@github.com:WaithiraMona/Week-1-Code-Challenge.git
+ 
 ```
 
 Go to the project directory
